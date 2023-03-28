@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-## 🧐 About Me
+# 🧐 About Me
 
 I am a Brazilian currently residing in Porto, Portugal, where I work as a Data Engineer. I hold a Bachelor's degree in Computer Engineering and a Specialization in Data Science and Big Data, both obtained from the Federal University of Bahia. My proficiency spans across multiple programming languages and technologies, including the likes of Apache Spark, Python, Scala, and Java. With my expertise in these areas, I excel at developing high-performing data solutions that cater to complex business needs.
 
